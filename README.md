@@ -1,52 +1,46 @@
-Amazon Product Reviews Sentiment Analysis
-This project performs sentiment analysis on Amazon product reviews using Python and common NLP libraries. It processes a dataset of 25,000 reviews, cleans the text, and visualizes sentiment distribution.
-​
+<div align="center">
 
-Features
-Loads and explores Amazon review dataset with 'Review' and 'Sentiment' columns.
-​
+# 📊 Amazon Product Reviews Sentiment Analysis
+</div>
 
-Cleans text by removing stopwords using NLTK.
-​
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NLTK-009688?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</div>
 
-Generates word clouds for negative sentiments.
-​
+<br/>
 
-Creates visualizations like count plots for sentiment distribution.
-​
+## 📋 **Project Overview**
 
-Tech Stack
-Python with Pandas for data handling.
-​
+**Sentiment Analysis of Amazon Product Reviews** using Natural Language Processing (NLP) techniques in Python. This project analyzes 25,000+ customer reviews to classify them as **Positive** or **Negative** sentiment.
 
-NLTK for text preprocessing (punkt, stopwords).
-​
+---
 
-Scikit-learn (TfidfVectorizer).
-​
+## ✨ **Key Features**
 
-Matplotlib and WordCloud for visualizations.
-​
+<div align="center">
 
-Jupyter Notebook environment (Google Colab compatible).
-​
+| **Feature** | **Description** |
+|-------------|-----------------|
+| 🔍 **Data Exploration** | Load & analyze Amazon review dataset |
+| 🧹 **Text Preprocessing** | Remove stopwords, clean reviews |
+| 📈 **Visualization** | Sentiment distribution, Word Clouds |
+| ⚙️ **Binary Classification** | 1-3⭐ → **Negative (0)**, 4-5⭐ → **Positive (1)** |
 
-Dataset
-Uses 'AmazonReview.csv' with ~25,000 entries: reviews labeled as binary sentiment (0: negative, 1: positive) after mapping (1-3→0, 4-5→1).
-​
+</div>
 
-Quick Start
-Clone the repo and open Amazon_Product_Reviews_Sentiment_Analysis_in_Python.ipynb in Jupyter/Colab.
-​
+---
 
-Place 'AmazonReview.csv' in the same directory.
-​
+## 🛠️ **Tech Stack**
 
-Run cells sequentially: imports, data load, cleaning, and plots will generate automatically.
-​
+```python
+📚 Libraries Used:
+-  pandas          - Data manipulation
+-  nltk            - Text preprocessing  
+-  scikit-learn    - TF-IDF Vectorization
+-  matplotlib      - Data visualization
+-  wordcloud       - Word cloud generation
 
-Results
-Dataset: 15,000 negative (0), ~10,000 positive (1).
-​
-
-Visuals include word clouds and sentiment bar charts
