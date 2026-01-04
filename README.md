@@ -44,3 +44,17 @@
 -  matplotlib      - Data visualization
 -  wordcloud       - Word cloud generation
 
+# 1. Clone the repository
+git clone <your-repo-url>
+
+# 2. Place dataset
+📁 Place 'AmazonReview.csv' in project root
+
+# 3. Open Jupyter Notebook
+jupyter notebook Amazon_Product_Reviews_Sentiment_Analysis_in_Python.ipynb
+
+# 4. Run all cells sequentially
+
+Sentiment Distribution:
+Negative (0): 15,000 reviews (60%)
+Positive (1):  9,999 reviews (40%)
