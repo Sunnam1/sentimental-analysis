@@ -106,7 +106,6 @@ amazon-sentiment-analysis/
 ├── 📓 Amazon_Product_Reviews_Sentiment_Analysis_in_Python.ipynb[1]
 ├── 📄 AmazonReview.csv                          (Dataset)
 ├── 📄 README.md                                 (This file!)
-└── 📁 outputs/                                  (Plots & results)
 ```
 
 ---
