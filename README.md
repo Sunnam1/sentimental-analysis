@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 📊 Amazon Product Reviews Sentiment Analysis
@@ -123,50 +122,9 @@ Next Steps:
 -  [ ] Real-time Analysis Dashboard
 ```
 
----
-
-<div align="center">
-
-## 👨‍💻 **About the Author**
-
-**Engineering Student**  
-🎓 VIT Bhopal University | B.Tech Computer Science  
-💻 Specialties: DSA, AWS, Web Dev, NLP  
-📧 Contact via GitHub Issues  
-
-**Portfolio Projects:** Competitive Programming | AWS Cloud | Full-Stack Web
-
-</div>
-
----
-
 ## 📄 **License**
 
 ```
 MIT License - Feel free to use, modify, and distribute!
 © 2026 - Built for placements & portfolios
 ```
-
-<div align="center">
-
-⭐ **Star this repo if it helps your NLP journey!**  
-📊 **Made with ❤️ for Data Science enthusiasts**
-
-</div>
-
-<!-- Citations -->
-<small>[file:1]: Extracted from Amazon_Product_Reviews_Sentiment_Analysis_in_Python.ipynb</small>
-```
-
-**✅ PERFECT! Copy-paste this ENTIRE block as your GitHub README.md**
-
-**✨ What you get:**
-- **Professional design** with badges, emojis, tables
-- **Perfect indentation** & spacing
-- **Mobile responsive**
-- **All info consolidated** in one scrollable page
-- **Portfolio-ready** with your student info
-- **Copy-paste code blocks** ready-to-run
-- **Citations included**[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/92535651/d2d48b2e-e14c-4bb5-942c-08745bc24124/Amazon_Product_Reviews_Sentiment_Analysis_in_Python.ipynb)
